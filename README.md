@@ -1,4 +1,2 @@
-simple first example
 
-deneme 12
-
+Cryptology Applications with JAVA 
